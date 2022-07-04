@@ -1,0 +1,8 @@
+- Mi nombre es Pablo Muñoz Vallejos.
+- vivo en la ciudad de Parral.
+- Soy profesional en el área de la educación y actividad física, poseo una experiencia laboral de doce años.
+- En la actualidad me encuentro perfeccionando en el área de las tecnologías de la información específicamente en el desarrollo de aplicaciones  web
+- Estoy aprendiendo sobre html, css y js
+- Algunas características personales son la capacidad de adaptación, motivación por aprender, e innovador.
+- Podemos contactarnos por medio de mi perfil en LinkedIn y así ahondar mas en mis antecedentes personales
+- www.linkedin.com/in/pabloalejandro-muñozvallejos
